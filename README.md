@@ -12,3 +12,7 @@ What you'll build
 
 What you'll need
  - A computer with Android Studio installed
+
+## App Vorschau
+
+![App Demonstration](Screenshot_20260624_105214.png)
